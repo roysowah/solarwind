@@ -1,0 +1,2 @@
+# solarwind
+SolarWind $SLW is a DeFi token giving residents and businesses the freedom to choose when to go solar by providing easy and straight forward financing to installers and customers. SolarWind is also solving Bitcoin’s energy dependence on fossil fuels by integrating our decentralized application with new and existing miners to provide solar installations that will create a liquidity pool backed by Bitcoin.
