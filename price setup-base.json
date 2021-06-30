@@ -5,3 +5,10 @@
     "down": 0.1  // percent deviation bottom line 1% = 0.01
   }
 }
+{
+    "SLW/USDT": { 
+    "price": 15, 
+    "up": 0.15,
+    "down": 0.1 
+  }
+}
